@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Request-RequestUITests/Pods-Request-RequestUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Alert/Alert.framework
+${BUILT_PRODUCTS_DIR}/JDStatusBarNotification/JDStatusBarNotification.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework

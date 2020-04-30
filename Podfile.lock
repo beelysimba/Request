@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Alert (1.0.5)
+  - JDStatusBarNotification (1.6.1)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.2.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0)
+  - Alert (~> 1.0.3)
+  - JDStatusBarNotification (= 1.6.1)
+  - MBProgressHUD (~> 1.2.0)
+  - MJExtension (~> 3.2.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - Alert
+    - JDStatusBarNotification
+    - MBProgressHUD
+    - MJExtension
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Alert: 7bb4b634c0fbd37fc70602de5d2c9367b7aa2fb9
+  JDStatusBarNotification: 6052ca9a51ee0bb058f8dc09cf1d63554ef0f743
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 635f2c663dcb1bf76fa4b715b2570a5710aec545
+
+PODFILE CHECKSUM: cbc348c19347a52991cc44d25f2d95f827667f82
+
+COCOAPODS: 1.9.1
